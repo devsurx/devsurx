@@ -16,7 +16,7 @@
 - 🧩 Core Team, **YUKTI CWiT** (college tech club)
 - 🐍 Self-taught programmer since 2019, now focused on Python, data analytics, and LLM-powered tools
 - 🚀 Building a portfolio aimed at internships and freelance work
-- 🏍️ Off-screen: solo biking, studying astronomy, mathematics
+- 🏍️ Off-screen: solo biking, studying theoretical physics, mathematics
 
 <br>
 
@@ -37,68 +37,35 @@
 
 <br>
 
-### Featured Projects
+Featured Projects
+<table> <tr> <td width="50%">
 
-<table>
-<tr>
-<td width="50%">
+🧠 Synapse AI study companion app with a nature/biology-inspired UI, built around adaptive learning flows.
 
-**🧠 Synapse**
-AI study companion app with a nature/biology-inspired UI, built around adaptive learning flows.
+</td> <td width="50%">
 
-</td>
-<td width="50%">
+💸 Expense Insight Personal finance analytics dashboard in Streamlit — spending trends, category breakdowns, and insights.
 
-**💸 Expense Insight**
-Personal finance analytics dashboard in Streamlit — spending trends, category breakdowns, and insights.
+</td> </tr> <tr> <td width="50%">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+🎮 EzController Turn your smartphone into a fully wireless, zero-latency, gyro-enabled Xbox 360 controller for PC racing games — built with Python, WebSockets, and HTML5.
 
-**🌦️ Weather Analysis**
-Exploratory data analysis on an Indian climate dataset, surfacing regional and seasonal trends.
+</td> <td width="50%">
 
-</td>
-<td width="50%">
+🏎️ F1 Stat Analyzer Formula 1 statistics explorer built on FastF1 — lap times, telemetry, and race comparisons.
 
-**🏎️ F1 Stat Analyzer**
-Formula 1 statistics explorer built on FastF1 — lap times, telemetry, and race comparisons.
+</td> </tr> <tr> <td width="50%">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+🤖 DevAssist A Python CLI AI assistant using the OpenRouter API with multi-model fallback and concurrent racing for faster responses.
 
-**🤖 DevAssist**
-A Python CLI AI assistant using the OpenRouter API with multi-model fallback and concurrent racing for faster responses.
+</td> <td width="50%">
 
-</td>
-<td width="50%">
+🛡️ FraudShield Real-time fraud risk monitoring system for flagging suspicious transaction patterns.
 
-**🛡️ FraudShield**
-Real-time fraud risk monitoring system for flagging suspicious transaction patterns.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### GitHub Stats
-
-<div align="center">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=devsurx&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devsurx&theme=default&hide_border=true" height="165" />
-
-</div>
-
-<br>
-
-<div align="center">
-
+</td> </tr> </table> <br>
+GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devsurx&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsurx&theme=default&hide_border=true" height="165" /> </div> <br> <div align="center">
+  
 *Currently exploring: Machine learning Fundamentals · Unity Game Dev · Data Science · French*
 
 </div>
