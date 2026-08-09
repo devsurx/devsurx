@@ -16,7 +16,7 @@
 - 🧩 Core Team, **YUKTI CWiT** (college tech club)
 - 🐍 Self-taught programmer since 2019, now focused on Python, data analytics, and LLM-powered tools
 - 🚀 Building a portfolio aimed at internships and freelance work
-- 🏍️ Off-screen: solo motorcycle rides, motovlogging, and reading about black holes
+- 🏍️ Off-screen: solo biking, studying astronomy, mathematics
 
 <br>
 
@@ -90,7 +90,7 @@ Real-time fraud risk monitoring system for flagging suspicious transaction patte
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devsurx&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=devsurx&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsurx&theme=default&hide_border=true" height="165" />
 
 </div>
@@ -99,6 +99,6 @@ Real-time fraud risk monitoring system for flagging suspicious transaction patte
 
 <div align="center">
 
-*Currently exploring: machine learning fundamentals · Unity game dev · French self-study systems*
+*Currently exploring: Machine learning Fundamentals · Unity Game Dev · Data Science · French*
 
 </div>
