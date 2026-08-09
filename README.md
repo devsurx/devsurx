@@ -66,7 +66,7 @@ Featured Projects
 
 <div align="center"> <img src="asv.gif" width="500" />
 
-<br><br>
+<br>
 
 "the shape of voice"
 
