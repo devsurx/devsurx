@@ -37,41 +37,73 @@
 
 <br>
 
-Featured Projects
-<table> <tr> <td width="50%">
+### Featured Projects
 
-🧠 Synapse AI study companion app with a nature/biology-inspired UI, built around adaptive learning flows.
+<table>
+<tr>
+<td width="50%">
 
-</td> <td width="50%">
+**🧠 Synapse**
+AI study companion app with a nature/biology-inspired UI, built around adaptive learning flows.
 
-💸 Expense Insight Personal finance analytics dashboard in Streamlit — spending trends, category breakdowns, and insights.
+</td>
+<td width="50%">
 
-</td> </tr> <tr> <td width="50%">
+**💸 Expense Insight**
+Personal finance analytics dashboard in Streamlit — spending trends, category breakdowns, and insights.
 
-🎮 EzController Turn your smartphone into a fully wireless, zero-latency, gyro-enabled Xbox 360 controller for PC racing games — built with Python, WebSockets, and HTML5.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-</td> <td width="50%">
+**🎮 EzController**
+Turn your smartphone into a fully wireless, zero-latency, gyro-enabled Xbox 360 controller for PC racing games — built with Python, WebSockets, and HTML5.
 
-🏎️ F1 Stat Analyzer Formula 1 statistics explorer built on FastF1 — lap times, telemetry, and race comparisons.
+</td>
+<td width="50%">
 
-</td> </tr> <tr> <td width="50%">
+**🏎️ F1 Stat Analyzer**
+Formula 1 statistics explorer built on FastF1 — lap times, telemetry, and race comparisons.
 
-🤖 DevAssist A Python CLI AI assistant using the OpenRouter API with multi-model fallback and concurrent racing for faster responses.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-</td> <td width="50%">
+**🤖 DevAssist**
+A Python CLI AI assistant using the OpenRouter API with multi-model fallback and concurrent racing for faster responses.
 
-🛡️ FraudShield Real-time fraud risk monitoring system for flagging suspicious transaction patterns.
+</td>
+<td width="50%">
 
-</td> </tr> </table> <br>
+**🛡️ FraudShield**
+Real-time fraud risk monitoring system for flagging suspicious transaction patterns.
 
-<div align="center"> <img src="asv.gif" width="500" />
+</td>
+</tr>
+</table>
 
 <br>
 
-"the shape of voice"
+---
+
+<div align="center">
+
+<img src="asv.gif" width="500" />
+
+<br><br>
+
+*"the shape of voice"*
 
 </div>
-  
-*Currently exploring: Machine learning Fundamentals · Unity Game Dev · Data Science · French*
+
+---
+
+<br>
+
+<div align="center">
+
+*Currently exploring: machine learning fundamentals · Unity game dev · data science · French*
 
 </div>
