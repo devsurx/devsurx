@@ -90,11 +90,8 @@ Real-time fraud risk monitoring system for flagging suspicious transaction patte
 
 <div align="center">
 
-<img src="asv.gif" width="500" />
-
-<br><br>
-
-*"the shape of voice"*
+<img src="asv.gif" width="500" /><br>
+<sub>❝ the shape of voice ❞</sub>
 
 </div>
 
