@@ -63,8 +63,14 @@ Featured Projects
 🛡️ FraudShield Real-time fraud risk monitoring system for flagging suspicious transaction patterns.
 
 </td> </tr> </table> <br>
-GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devsurx&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsurx&theme=default&hide_border=true" height="165" /> </div> <br> <div align="center">
+
+<div align="center"> <img src="asv.gif" width="500" />
+
+<br><br>
+
+"the shape of voice"
+
+</div>
   
 *Currently exploring: Machine learning Fundamentals · Unity Game Dev · Data Science · French*
 
