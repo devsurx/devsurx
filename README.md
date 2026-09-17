@@ -60,56 +60,6 @@
 </div>
 <br>
 
-### Featured Projects
-<table>
-<tr>
-<td width="50%">
-
-**🧠 Synapse**
-AI study companion app with a nature/biology-inspired UI, built around adaptive learning flows.
-
-</td>
-<td width="50%">
-
-**💸 Expense Insight**
-Personal finance analytics dashboard in Streamlit — spending trends, category breakdowns, and insights.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🎮 EzController**
-Turn your smartphone into a fully wireless, zero-latency, gyro-enabled Xbox 360 controller for PC racing games — built with Python, WebSockets, and HTML5.
-
-</td>
-<td width="50%">
-
-**🏎️ F1 Stat Analyzer**
-Formula 1 statistics explorer built on FastF1 — lap times, telemetry, and race comparisons.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🤖 DevAssist**
-A Python CLI AI assistant using the OpenRouter API with multi-model fallback and concurrent racing for faster responses.
-
-</td>
-<td width="50%">
-
-**🛡️ FraudShield**
-Real-time fraud risk monitoring system for flagging suspicious transaction patterns.
-
-</td>
-</tr>
-</table>
-<br>
-
----
-<br>
-
 <div align="center">
 
 *Currently exploring: machine learning fundamentals · Unity game dev · data science · French*
