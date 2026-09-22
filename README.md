@@ -10,7 +10,7 @@
 <br>
 
 ### About
-- 🎓 Pursuing a CS degree at Cusrow Wadia Institute of Technology (CWiT), Pune
+- 🎓 Pursuing a CS degree in Pune
 - 🐍 Self-taught programmer since 2019, now focused on Python, data analytics, and LLM-powered tools
 - 🚀 Building a portfolio aimed at internships and freelance work — see it live at **[portfolio-safal.netlify.app](https://portfolio-safal.netlify.app/)**
 - 🏍️ Off-screen: solo biking, studying theoretical physics, mathematics
