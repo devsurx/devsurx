@@ -10,11 +10,33 @@
 <br>
 
 ### About
-- 🎓 2nd-year Diploma student, Computer Science & IoT — Cusrow Wadia Institute of Technology, Pune
-- 🧩 Core Team, **YUKTI CWiT** (college tech club)
+- 🎓 Pursuing a CS degree at Cusrow Wadia Institute of Technology (CWiT), Pune
 - 🐍 Self-taught programmer since 2019, now focused on Python, data analytics, and LLM-powered tools
 - 🚀 Building a portfolio aimed at internships and freelance work — see it live at **[portfolio-safal.netlify.app](https://portfolio-safal.netlify.app/)**
 - 🏍️ Off-screen: solo biking, studying theoretical physics, mathematics
+
+<br>
+
+### 🧰 Utilo — small tools I wish already existed
+<div align="center">
+
+[![Utilo](https://img.shields.io/badge/utilo__-small_tools_i_wish_already_existed-000000?style=flat-square&logo=vercel&logoColor=white)](https://utilo-sable.vercel.app/)
+
+</div>
+
+**[utilo_](https://utilo-sable.vercel.app/)** is my running index of small, open-source tools — one thing, end-to-end, shipped rather than almost-done. Five projects live so far:
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**synapse**](https://github.com/devsurx/Synapse) | AI study companion — turns the grind into a calm study garden | Dart · Flutter · Gemini |
+| [**synapse-web**](https://github.com/devsurx/Synapse-Web) | Calm focus companion for the browser — deep-work sessions, streaks, learning tools | TypeScript |
+| [**together**](https://github.com/devsurx/together) | Daily-use PWA for long-distance couples — one prompt, one mood check-in, one streak | JavaScript · PWA |
+| [**ezcontroller**](https://github.com/devsurx/EzController) | Turns a phone into a wireless gyro-enabled Xbox 360 controller for PC racing games | Python · WebSockets · HTML5 |
+| [**devassist**](https://github.com/devsurx/DevAssist) | Terminal AI coding assistant — multi-model fallback via OpenRouter, streaming markdown, file-aware chat | Python · OpenRouter |
+
+Three rules hold it together: small scope and finished, built to scratch my own itch, and open source by default.
+
+**🔗 [Browse utilo_ →](https://utilo-sable.vercel.app/)**
 
 <br>
 
