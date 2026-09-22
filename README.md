@@ -1,15 +1,20 @@
 <div align="center">
 
 # Hi, I'm Surx 👋
+
 **CS & IoT student · Python / Data / GenAI**
+
 *Building small, useful things — dashboards, AI tools, and the occasional game.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--safal.netlify.app-2ea44f?style=flat-square&logo=netlify&logoColor=white)](https://portfolio-safal.netlify.app/)
+[![Utilo](https://img.shields.io/badge/utilo__-utilo--sable.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://utilo-sable.vercel.app/)
 
 </div>
+
 <br>
 
-### About
+## 👤 About
+
 - 🎓 Pursuing a CS degree in Pune
 - 🐍 Self-taught programmer since 2019, now focused on Python, data analytics, and LLM-powered tools
 - 🚀 Building a portfolio aimed at internships and freelance work — see it live at **[portfolio-safal.netlify.app](https://portfolio-safal.netlify.app/)**
@@ -17,30 +22,44 @@
 
 <br>
 
-### 🧰 Utilo — small tools I wish already existed
-<div align="center">
+## 🧰 Utilo — small tools I wish already existed
 
-[![Utilo](https://img.shields.io/badge/utilo__-small_tools_i_wish_already_existed-000000?style=flat-square&logo=vercel&logoColor=white)](https://utilo-sable.vercel.app/)
+<div align="center">
+<img src="https://utilo-sable.vercel.app/utilo.jpg" alt="Utilo logo" width="90" />
+
+### [utilo_](https://utilo-sable.vercel.app/)
+*small tools i wish already existed*
 
 </div>
 
-**[utilo_](https://utilo-sable.vercel.app/)** is my running index of small, open-source tools — one thing, end-to-end, shipped rather than almost-done. Five projects live so far:
+My running index of small, open-source tools — one thing, end-to-end, shipped rather than almost-done. Five projects live so far:
+
+<div align="center">
 
 | Project | What it does | Stack |
-|---|---|---|
+|:---|:---|:---|
 | [**synapse**](https://github.com/devsurx/Synapse) | AI study companion — turns the grind into a calm study garden | Dart · Flutter · Gemini |
 | [**synapse-web**](https://github.com/devsurx/Synapse-Web) | Calm focus companion for the browser — deep-work sessions, streaks, learning tools | TypeScript |
 | [**together**](https://github.com/devsurx/together) | Daily-use PWA for long-distance couples — one prompt, one mood check-in, one streak | JavaScript · PWA |
 | [**ezcontroller**](https://github.com/devsurx/EzController) | Turns a phone into a wireless gyro-enabled Xbox 360 controller for PC racing games | Python · WebSockets · HTML5 |
 | [**devassist**](https://github.com/devsurx/DevAssist) | Terminal AI coding assistant — multi-model fallback via OpenRouter, streaming markdown, file-aware chat | Python · OpenRouter |
 
-Three rules hold it together: small scope and finished, built to scratch my own itch, and open source by default.
+</div>
+
+**Three rules hold it together:**
+> `01` Small scope, finished — one thing, end-to-end.
+> `02` Scratch my own itch — built because I needed them.
+> `03` Open source by default — readable and forkable.
+
+<div align="center">
 
 **🔗 [Browse utilo_ →](https://utilo-sable.vercel.app/)**
 
+</div>
+
 <br>
 
-### Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 <div align="center">
@@ -70,7 +89,10 @@ Three rules hold it together: small scope and finished, built to scratch my own 
 <div align="center">
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square)
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat-square)
 
 </div>
