@@ -48,8 +48,11 @@ My running index of small, open-source tools — one thing, end-to-end, shipped 
 
 **Three rules hold it together:**
 > `01` Small scope, finished — one thing, end-to-end.
+<br>
 > `02` Scratch my own itch — built because I needed them.
+<br>
 > `03` Open source by default — readable and forkable.
+<br>
 
 <div align="center">
 
